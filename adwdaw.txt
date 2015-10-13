@@ -2,5 +2,3 @@ adawdawdawdawdawdawdawawdawdawawdd
 
 awdawdaw
 awdawdaw
-
-print hello
